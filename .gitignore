@@ -11,3 +11,4 @@ data/
 *.pkl
 results/
 plots/
+.idea/
